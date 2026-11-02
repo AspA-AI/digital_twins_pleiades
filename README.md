@@ -1,2 +1,2 @@
-# digital_twins_pleiades
-This application analysis the pleiades dataset from zenodo
+# Digital Twins On Pleiades Dataset
+This application does analysis on the pleiades dataset from zenodo.
